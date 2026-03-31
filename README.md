@@ -4,6 +4,9 @@
 
 This project focuses on analyzing customer churn behavior using a combination of Python (Jupyter Notebook) and Power BI. The goal is to clean, process, and visualize customer data to identify key factors influencing churn.
 
+## 📸 Dashboard Preview
+<img width="1919" height="1024" alt="Screenshot 2026-03-31 093138" src="https://github.com/user-attachments/assets/cdd61527-b1f6-40e6-9088-d8b3ef3912e0" />
+
 ## 🛠️ Tech Stack
 
 * Python (Pandas, NumPy)
@@ -25,9 +28,6 @@ This project focuses on analyzing customer churn behavior using a combination of
 * Customers using electronic check show higher churn
 * Lack of tech support increases churn probability
 * Higher monthly charges lead to more churn
-
-## 📸 Dashboard Preview
-<img width="1919" height="1024" alt="Screenshot 2026-03-31 093138" src="https://github.com/user-attachments/assets/cdd61527-b1f6-40e6-9088-d8b3ef3912e0" />
 
 
 ## 📁 Project Structure
