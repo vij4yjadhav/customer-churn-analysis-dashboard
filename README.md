@@ -51,4 +51,4 @@ This project focuses on analyzing customer churn behavior using a combination of
 
 ## 🔗 Project Link
 
-(Add GitHub repo link here)
+(https://github.com/vij4yjadhav/customer-churn-analysis-dashboard/tree/main)
